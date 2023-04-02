@@ -20,3 +20,9 @@ footer {
     padding: 40px 0;
     text-align: center;
 }
+
+.prism {
+    display: block;
+    max-width: 900px;
+    margin: auto;
+}
